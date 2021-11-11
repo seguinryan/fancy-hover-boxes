@@ -1,5 +1,6 @@
 html {
   font-family: "Asap Condensed", sans-serif;
+  box-sizing: content-box;
 }
 
 .hover-box {
